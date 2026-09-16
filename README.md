@@ -1,4 +1,7 @@
-## Hi there 👋
+## 151net
+
+AI 시켜서 잉여로운 코딩함
+할 줄 아는 것: ChatGPT 결제하기 
 
 <!--
 **151net/151net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
